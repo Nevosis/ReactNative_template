@@ -1,4 +1,4 @@
-import { AppRegistry } from 'react-native';
-import App from './App';
+import { AppRegistry } from "react-native";
+import rnTemplate from "./src/index";
 
-AppRegistry.registerComponent('template', () => App);
+AppRegistry.registerComponent("template", () => rnTemplate);
